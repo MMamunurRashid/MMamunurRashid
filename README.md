@@ -4,8 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Front-End+Developer;Junior+Web+Developer;MERN+Stack+Developer;Computer+Science+and+Engineering+Student;Active+Learner/Researcher;<3"></a>
 </p>
 
-<br />
-
 ## <picture><img src = "/assets/about_me.gif" width = 50px></picture>  **About me**
 
 <picture> <img align="right" src="/assets/Right_Side.gif" width = 450px></picture>
@@ -44,3 +42,13 @@ Hi, i'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), High
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+<div align="center">
+
+![Mamun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MMamunurRashid&show_icons=true&theme=transparent)
+
+</div>
+<br>
+<br>
