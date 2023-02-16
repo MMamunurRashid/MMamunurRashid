@@ -39,4 +39,8 @@ Hi, i'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), High
 <a href="https://twitter.com/MamunulLm10">
   <img align="left" alt="Mamunur Rashid | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://mamunur-rashid-portfolio.netlify.app">
+  <img align="left" alt="Mamunur Rashid | portfolio" width="30px" src="https://www.svgrepo.com/show/130546/world-wide-web.svg" />
+</a>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
