@@ -24,7 +24,7 @@ Hi, i'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), High
 </a>
 
 <a href="https://www.linkedin.com/in/md-mamunur-rashid-web/">
-<img align="left" alt="Mamunur Rashid's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="Mamunur Rashid's LinkedIN" width="30px" src="https://icons.veryicon.com/png/o/internet--web/common-social-site-icons-for-the-web/linkedin-90.png" />
 </a>
 <a href="https://www.facebook.com/mamunul.mamun.LM10/">
 <img align="left" alt="Mamunur Rashid's facebook" width="30px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />
@@ -35,7 +35,7 @@ Hi, i'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), High
 </a>
 
 <a href="https://twitter.com/MamunulLm10">
-  <img align="left" alt="Mamunur Rashid | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Mamunur Rashid | Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_2012_logo.svg/2048px-Twitter_2012_logo.svg.png" />
 </a>
 <a href="https://mamunur-rashid-portfolio.netlify.app">
   <img align="left" alt="Mamunur Rashid | portfolio" width="30px" src="https://www.svgrepo.com/show/130546/world-wide-web.svg" />
