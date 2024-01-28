@@ -9,25 +9,25 @@
 <picture> <img align="right" src="/assets/Right_Side.gif" width = 450px></picture>
 <br/>
 
-Hi, i'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), Highly motivated with a Basic understanding of web development, also doing Bachelor of Science in Computer Science and Engineering. Who is ready to take challenges. I believe that working smart is more important than working hard for gaining success, and consistency is the key to success.
+Hi, I'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), Highly motivated with a Basic understanding of web development, and I also have a Bachelor of Science in Computer Science and Engineering. Who is ready to take challenges. Working smart is more important than working hard to gain success, and consistency is the key to success.
 <br/>
 - A passionate Front-end developer
 - Junior Web Developer
 - MERN Stack Developer
 - Personal website [Portfolio](https://mamunur-rashid-portfolio.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1MoJ-XuMi84n08jBOpDk32Mxb0EIl1Y9O/view?usp=share_link)
+- I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1MoJ-XuMi84n08jBOpDk32Mxb0EIl1Y9O/view?usp=share_link)
 - Find me in ⬇️
 <br/>
 
 <a href="mailto:mdmamun.iubat.m@gmail.com/">
-<img align="left" alt="Mamunur Rashid's email" width="30px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
+<img align="left" alt="Mamunur Rashid's email" width="30px" src="https://www.svgrepo.com/show/530453/mail-reception.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/md-mamunur-rashid-web/">
 <img align="left" alt="Mamunur Rashid's LinkedIN" width="30px" src="https://icons.veryicon.com/png/o/internet--web/common-social-site-icons-for-the-web/linkedin-90.png" />
 </a>
 <a href="https://www.facebook.com/mamunul.mamun.LM10/">
-<img align="left" alt="Mamunur Rashid's facebook" width="30px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />
+<img align="left" alt="Mamunur Rashid's facebook" width="30px" src="https://www.svgrepo.com/show/475647/facebook-color.svg" />
 </a>
 
 <a href="https://www.instagram.com/mamunul.mamun.lm10/">
@@ -38,7 +38,7 @@ Hi, i'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), High
   <img align="left" alt="Mamunur Rashid | Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_2012_logo.svg/2048px-Twitter_2012_logo.svg.png" />
 </a>
 <a href="https://mamunur-rashid-portfolio.netlify.app">
-  <img align="left" alt="Mamunur Rashid | portfolio" width="30px" src="https://www.svgrepo.com/show/130546/world-wide-web.svg" />
+  <img align="left" alt="Mamunur Rashid | portfolio" width="30px" src="https://www.svgrepo.com/show/195388/portfolio-bag.svg" />
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
