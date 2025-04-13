@@ -14,7 +14,7 @@ Hi, I'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), High
 - A passionate Front-end developer
 - Junior Web Developer
 - MERN Stack Developer
-- Personal website [Portfolio](https://mamunur-rashid-portfolio.netlify.app/)
+- Personal website [Portfolio](https://mamunur-rashid-portfolio.vercel.app/)
 - I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1MoJ-XuMi84n08jBOpDk32Mxb0EIl1Y9O/view?usp=share_link)
 - Find me in ⬇️
 <br/>
@@ -37,7 +37,7 @@ Hi, I'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), High
 <a href="https://twitter.com/MamunulLm10">
   <img align="left" alt="Mamunur Rashid | Twitter" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_2012_logo.svg/2048px-Twitter_2012_logo.svg.png" />
 </a>
-<a href="https://mamunur-rashid-portfolio.netlify.app">
+<a href="https://mamunur-rashid-portfolio.vercel.app/">
   <img align="left" alt="Mamunur Rashid | portfolio" width="30px" src="https://www.svgrepo.com/show/195388/portfolio-bag.svg" />
 </a>
 
