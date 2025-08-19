@@ -43,6 +43,13 @@ Hi, I'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), High
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<br>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,next,react,nodejs,express,ts,mysql,mongodb,docker,aws,nginx,github,tailwind,scss,bootstrap,redux,cs,dotnet,figma,firebase,postman,vite,vercel,vscode&perline=12)](https://mamunur-rashid-portfolio.vercel.app/skills)
+
+</div><br/>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <div align="center">
@@ -51,4 +58,14 @@ Hi, I'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), High
 
 </div>
 <br>
-<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Streak </b>
+
+<br />
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MMamunurRashid&theme=dark)](https://git.io/streak-stats)
+  
+</div>
+
