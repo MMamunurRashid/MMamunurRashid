@@ -65,7 +65,7 @@ Hi, I'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.netlify.app/), High
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MMamunurRashid&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MMamunurRashid&theme=dark)](https://mamunur-rashid-portfolio.vercel.app)
   
 </div>
 
