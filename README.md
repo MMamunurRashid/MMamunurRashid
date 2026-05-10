@@ -11,7 +11,7 @@
 <picture> <img align="right" src="/assets/Right_Side.gif" width = 450px></picture>
 <br/>
 
-Hi, I'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.vercel.app/) — a passionate **Full Stack Developer** with over 1 year of professional experience building scalable web applications.
+Hi, I'm [Md Mamunur Rashid](https://mamunur-rashid-portfolio.vercel.app/) — a passionate **Full Stack Developer** with over 2 years of professional experience building scalable web applications.
 
 💼 Currently working as a **Software Engineer at eManager IT LTD**, developing enterprise-level ERP solutions integrating CRM, HRM, Accounting, and workflow automation systems.
 
